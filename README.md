@@ -10,10 +10,6 @@ Unsupported operation
 
     npm i unsupported
 
-## Adapters
-
-- See [adapters](https://www.npmjs.com/browse/keyword/core-arbitrary-precision-adapter)
-
 ## Usage
 
 ```js
